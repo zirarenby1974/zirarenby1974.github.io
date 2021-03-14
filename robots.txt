@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zirarenby1974.github.io/sitemap.xml
